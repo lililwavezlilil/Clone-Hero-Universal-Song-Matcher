@@ -28,8 +28,11 @@ You can run Clone Hero x RythymVerse Song Matcher.exe either before or after loa
 •Labels tracks that you do not have in red (Terminal window only)
 
 •Labels and highlights tracks that you download/are extracting in yellow
+
 •Updates tracks that you downloaded and extracted to your Clone Hero 	songs folder as added to library/owned highlighted in green
+
 •Lists all songs in a 1:1 mirror image to the current RythymVerse page
+
 •Allows loading more songs/scrolling, search filters, and refreshing of 	RythymVerse following perfectly along
 
 🟢 Green: Highlights tracks you already own in your library
