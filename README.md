@@ -4,7 +4,8 @@ Clone Hero x RythymVerse Song Matcher for labeling, displaying, and syncing song
 ⚠️ Security Notice: Antivirus False Positives
 Because this background service uses PyInstaller to package the local Python environment into a single executable, strict antivirus programs (such as Windows Defender) may occasionally flag it as a generic threat. This is a common false positive associated with compiled Python scripts.
 
-Instructions:
+*Instructions*
+
 1. Open your browser(s) of choice and add/install the extension Tampermonkey by Jan Biniok
 2. Open my extensions/installed extensions in your browser(s) and locate Tampermonkey
 3. Click on details and make sure you enable Allow User Scripts
@@ -20,7 +21,7 @@ If editing via Notepad: You must use forward slashes (/) or double backslashes (
 
 You can run Clone Hero x RythymVerse Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way! :D
 
-Feautures & Functionality:
+*Feautures & Functionality*
 
 •Labels and highlights tracks that you already have/own in green
 •Labels tracks that you do not have in red (Terminal window only)
