@@ -28,7 +28,7 @@ If editing via Notepad: **YOU MUST** use forward slashes (/) or double backslash
 
 *(Example: C:/Games/Clone Hero/Songs or C:\\Games\\Clone Hero\\Songs)*
 
-You can run Clone Hero x RythymVerse Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way :D
+You can run Clone Hero x RythymVerse Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way! :D
 
 **Features & Functionality:**
 
