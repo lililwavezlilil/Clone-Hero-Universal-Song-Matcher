@@ -4,7 +4,7 @@ Clone Hero x RhythymVerse Song Matcher for labeling, displaying, and syncing son
 
 ***⚠️ Security Notice:*** *Antivirus False Positives*
 
-Because this background service uses PyInstaller to package the local Python environment into a single executable, strict antivirus programs (such as Windows Defender) may occasionally flag it as a generic threat. This is a common false positive associated with compiled Python scripts.*
+Because this background service uses PyInstaller to package the local Python environment into a single executable, strict antivirus programs (such as Windows Defender) may occasionally flag it as a generic threat. This is a common false positive associated with compiled Python scripts.
 
 **Instructions:**
 
