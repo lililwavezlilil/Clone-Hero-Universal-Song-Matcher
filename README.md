@@ -50,3 +50,11 @@ You can run Clone Hero x RhythmVerse Song Matcher.exe either before or after loa
 🟡 **Yellow:** *Highlights tracks currently downloading or extracting*
 
 🔴 **Red:** *Labels tracks you do not currently have (visible in the Terminal window only)*
+
+<img width="3840" height="2160" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/0c9493f8-0708-4607-824a-20b2a24114aa" />
+<img width="3840" height="2160" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/2fb74e66-15dc-4eaa-9133-771222ea28a7" />
+<img width="3840" height="2160" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/f42467c2-43ac-404a-bbe4-3db4ee42d1e5" />
+<img width="3840" height="2160" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/5b3233f0-65d6-47a2-a3e8-708417b0a371" />
+<img width="3840" height="2160" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/4b7c1519-54d7-41cd-9cb5-1fb2f2f71dd7" />
+<img width="3840" height="2160" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/4205e26d-f69f-4ca0-8140-479fabdaa592" />
+<img width="3840" height="2160" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/d9725b63-3c75-4b75-8a7c-1f5a615b2e76" />
