@@ -1,6 +1,6 @@
-<picture><img width="32" height="32" alt="Clone Hero x RhythymVerse 2" src="https://github.com/user-attachments/assets/452a5c74-8e39-41ca-9167-aff12bc3c429" /><picture>**Clone Hero x RhythmVerse Song Matcher**<picture><img width="32" height="32" alt="Clone Hero x RhythymVerse 2" src="https://github.com/user-attachments/assets/452a5c74-8e39-41ca-9167-aff12bc3c429" /><picture>
+**Clone Hero Universal Song Matcher**
 
-Clone Hero x RhythmVerse Song Matcher is for labeling, displaying, and syncing songs alongside RhythmVerse.co to ensure duplicates aren't downloaded unless intended with a nice/simple UI
+Clone Hero Universal Song Matcher is for labeling, displaying, and syncing songs between your Clone Hero songs folder/directory from: RhythmVerse, CHORUS ENCORE, and CUSTOM SONGS CENTRAL to ensure duplicates aren't downloaded unless intended with a nice/simple UI
 
 ***⚠️ Security Notice:*** *Antivirus False Positives*
 
@@ -17,19 +17,19 @@ Because this background service uses PyInstaller to package the local Python env
 4. Add my custom Tampermonkey script:
 
 **• OPTION A (Recommended):**
-Go to https://greasyfork.org/en/scripts/582682-rhythmverse-clone-hero-ownership-checker and click on Install this script. 
+Go to (https://greasyfork.org/en/scripts/582682-clone-hero-universal-song-matcher) and click on Install this script. 
 
 **• OPTION B (Manual Install):**
 Open Tampermonkey.txt and copy everything inside, then click on the Tampermonkey extension in your browser(s) and click Create a new script. Paste everything inside and save
 
-6. All done! You may run Clone Hero x RhythmVerse Song Matcher.exe without needing to do any of the above steps again
+6. All done! You may run Clone Hero Universal Song Matcher.exe without needing to do any of the above steps again
 
-On the initial run, you will be prompted to select your Clone Hero songs directory (you can change this anytime on the RhythmVerse webpage by clicking Change Local Folder in the bottom right corner or by editing the rv_scanner_config.json file with Notepad).
+On the initial run, you will be prompted to select your Clone Hero songs directory (you can change this anytime on the RhythmVerse, CHORUS ENCORE, or CUSTOM SONGS CENTRAL webpage by clicking Change Local Folder in the bottom right corner or by editing the rv_scanner_config.json file with Notepad).
 If editing via Notepad: **YOU MUST** use forward slashes (/) or double backslashes (\\) for your path. Standard copy-pasted Windows paths **WILL NOT WORK!**
 
 *(Example: C:/Games/Clone Hero/Songs or C:\\\Games\\Clone Hero\\\Songs)*
 
-You can run Clone Hero x RhythmVerse Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way! :D
+You can run Clone Hero Universal Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way! :D
 
 **Features & Functionality:**
 
@@ -41,9 +41,11 @@ You can run Clone Hero x RhythmVerse Song Matcher.exe either before or after loa
 
 • Updates tracks that you downloaded and extracted to your Clone Hero songs folder as added to library/owned highlighted in green
 
-• Lists all songs in a 1:1 mirror image to the current RhythmVerse page
+• Lists all songs in a 1:1 mirror image to the current RhythmVerse, CHORUS ENCORE, or CUSTOM SONGS CENTRAL webpage
 
-• Allows loading more songs/scrolling, search filters, and refreshing of RhythmVerse following perfectly along
+• Allows loading more songs/scrolling, search filters, and refreshing of RhythmVerse, CHORUS ENCORE, and CUSTOM SONGS CENTRAL following perfectly along
+
+• Removes the songs from the associated webpage in the terminal window whenever RhythmVerse, CHORUS ENCORE, or CUSTOM SONGS CENTRAL is closed
 
 🟢 **Green:** *Highlights tracks you already own in your library*
 
@@ -51,10 +53,3 @@ You can run Clone Hero x RhythmVerse Song Matcher.exe either before or after loa
 
 🔴 **Red:** *Labels tracks you do not currently have (visible in the Terminal window only)*
 
-<img width="3840" height="2160" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/0c9493f8-0708-4607-824a-20b2a24114aa" />
-<img width="3840" height="2160" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/2fb74e66-15dc-4eaa-9133-771222ea28a7" />
-<img width="3840" height="2160" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/f42467c2-43ac-404a-bbe4-3db4ee42d1e5" />
-<img width="3840" height="2160" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/5b3233f0-65d6-47a2-a3e8-708417b0a371" />
-<img width="3840" height="2160" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/4b7c1519-54d7-41cd-9cb5-1fb2f2f71dd7" />
-<img width="3840" height="2160" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/d9725b63-3c75-4b75-8a7c-1f5a615b2e76" />
-<div align="center"><picture><img width="256" height="256" alt="Clone Hero x RhythymVerse 2" src="https://github.com/user-attachments/assets/452a5c74-8e39-41ca-9167-aff12bc3c429" /><picture><div>
