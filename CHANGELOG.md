@@ -1,5 +1,11 @@
 ### **FULL CHANGELOG:**
 
+### ***v1.1.1***
+
+*• Fixed terminal window tab from displaying the programs path instead of the application name*
+
+*• Added version number in terminal window next to application title*
+
 ### ***v1.1***
 
 *• Fixed RhythmVerse from causing the terminal window to flicker when downloading/extracting a song*
