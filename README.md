@@ -50,11 +50,11 @@ https://github.com/lililwavezlilil
 
 • Removes the songs from the associated webpage in the terminal window whenever RhythmVerse, CHORUS ENCORE, or CUSTOM SONGS CENTRAL is closed
 
-#### 🟢 **Green:** *Highlights tracks you already own in your library*
+##### 🟢 **Green:** *Highlights tracks you already own in your library*
 
-#### 🟡 **Yellow:** *Highlights tracks currently downloading or extracting*
+##### 🟡 **Yellow:** *Highlights tracks currently downloading or extracting*
 
-#### 🔴 **Red:** *Labels tracks you do not currently have (visible in the Terminal window only)*
+##### 🔴 **Red:** *Labels tracks you do not currently have (visible in the Terminal window only)*
 
 <img width="3840" height="2160" alt="Screenshot (465)" src="https://github.com/user-attachments/assets/26ec7f75-5d78-4ad3-84bc-cd82caed5ce0" />
 <img width="3840" height="2160" alt="Screenshot (466)" src="https://github.com/user-attachments/assets/0a78415a-5c36-4f95-9028-86d7027a5898" />
